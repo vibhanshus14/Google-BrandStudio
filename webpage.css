@@ -1,0 +1,28 @@
+.header
+{
+    height: 71px;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    background-color: rgb(12, 60, 96);
+}
+
+.h1
+{
+    margin-left: 50px;
+    color: aliceblue;
+    width: 25%;
+    
+}
+.about-image
+{
+    opacity: 0.4;
+    height:679px;
+    width: 980px;
+    object-fit: cover;
+    object-position: 50% 50%;
+}
+.about-para
+{
+    text-align: center;
+}
